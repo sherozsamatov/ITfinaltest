@@ -1,0 +1,14 @@
+D:\GeekBrains\C#\Итоговое\bin\Debug\net8.0\Итоговое.exe
+D:\GeekBrains\C#\Итоговое\bin\Debug\net8.0\Итоговое.deps.json
+D:\GeekBrains\C#\Итоговое\bin\Debug\net8.0\Итоговое.runtimeconfig.json
+D:\GeekBrains\C#\Итоговое\bin\Debug\net8.0\Итоговое.dll
+D:\GeekBrains\C#\Итоговое\bin\Debug\net8.0\Итоговое.pdb
+D:\GeekBrains\C#\Итоговое\obj\Debug\net8.0\Итоговое.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\C#\Итоговое\obj\Debug\net8.0\Итоговое.AssemblyInfoInputs.cache
+D:\GeekBrains\C#\Итоговое\obj\Debug\net8.0\Итоговое.AssemblyInfo.cs
+D:\GeekBrains\C#\Итоговое\obj\Debug\net8.0\Итоговое.csproj.CoreCompileInputs.cache
+D:\GeekBrains\C#\Итоговое\obj\Debug\net8.0\Итоговое.dll
+D:\GeekBrains\C#\Итоговое\obj\Debug\net8.0\refint\Итоговое.dll
+D:\GeekBrains\C#\Итоговое\obj\Debug\net8.0\Итоговое.pdb
+D:\GeekBrains\C#\Итоговое\obj\Debug\net8.0\Итоговое.genruntimeconfig.cache
+D:\GeekBrains\C#\Итоговое\obj\Debug\net8.0\ref\Итоговое.dll
